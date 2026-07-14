@@ -1,6 +1,6 @@
 # Algorithmic Veto Bypass Protocol: The Orange Method™
 
-![The Orange Method™ Systems Architecture](assets/The_3-Layer_Protocol.png)
+![The Orange Method™ Systems Architecture](The%203-Layer%20Protocol.png)
 
 > **Architect Atzy Campos**  
 > *Founder & Operating Model Architect*
